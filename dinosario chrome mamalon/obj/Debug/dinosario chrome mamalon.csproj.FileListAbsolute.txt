@@ -1,0 +1,9 @@
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\dinosario chrome mamalon\bin\Debug\dinosario chrome mamalon.exe.config
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\dinosario chrome mamalon\bin\Debug\dinosario chrome mamalon.exe
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\dinosario chrome mamalon\bin\Debug\dinosario chrome mamalon.pdb
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\dinosario chrome mamalon\obj\Debug\dinosario chrome mamalon.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\dinosario chrome mamalon\obj\Debug\dinosario_chrome_mamalon.Form1.resources
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\dinosario chrome mamalon\obj\Debug\dinosario_chrome_mamalon.Properties.Resources.resources
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\dinosario chrome mamalon\obj\Debug\dinosario chrome mamalon.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\dinosario chrome mamalon\obj\Debug\dinosario chrome mamalon.exe
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\dinosario chrome mamalon\obj\Debug\dinosario chrome mamalon.pdb
